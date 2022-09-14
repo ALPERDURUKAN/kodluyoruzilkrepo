@@ -19,4 +19,4 @@ code.
 Pull requestler kabul edilir, büyük değişiklikler için lütfen öncelikle neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## Licence
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://choosealicense.com/licenses/mit/)
